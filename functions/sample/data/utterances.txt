@@ -1,0 +1,13 @@
+DrinkIntent what's in the {DrinkItem}
+DrinkIntent what's in a {DrinkItem}
+DrinkIntent what is the {DrinkItem} made of
+DrinkIntent what is a {DrinkItem} made of
+DrinkIntent what ingredients are in the {DrinkItem}
+DrinkIntent what ingredients are in a {DrinkItem}
+DrinkIntent what are the ingredients in the {DrinkItem}
+DrinkIntent what are the ingredients in a {DrinkItem}
+DrinkIntent how do I make a {DrinkItem}
+DrinkIntent how do I make the {DrinkItem}
+DrinkIntent what's in the recipe for a {DrinkItem}
+DrinkIntent what's the recipe of a {DrinkItem}
+DrinkIntent what's the recipe for a {DrinkItem}

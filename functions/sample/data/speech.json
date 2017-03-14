@@ -1,0 +1,19 @@
+{
+  "WELCOME" : {
+    "speech" : "Hello, welcome to bartender. I'm here to assist you with finding recipes for your favorite cocktails. You can ask me, what's in a margarita? Or what's the recipe for a bloody mary?",
+    "reprompt" : "Sorry I didn't understand that request. You can ask me things like, what's in a margarita? Or what's the recipe for a bloody mary."
+  },
+  "RECIPES": {
+    "sex on the beach": "3/4 part vodka, 3 parts cranberry juice, 3 parts orange juice, and 3/4 part peach liqueur. Get crunk.",
+    "screwdriver": "1 part vodka and 2 parts of orange juice. Tonight's gonna be a good night.",
+    "vodka tonic": "1 part vodka and 1 to 3 parts of tonic water. Turn up baby.",
+    "bloody mary": "3 parts vodka, 6 parts tomatoe juice, 1 part lemon juice, worcestershire sauce, pepper, salt, and tabasco sauce. Get shwaysted.",
+    "gin and juice": "1 1/2 parts vodka, 3 parts orange juice, and 1 peel orange. Thirsty now?",
+    "old fashion": "2 parts bourbon, 1 orange twist, 2 dashes of bitter, and 1 whole sugar cube. We keep it old school.",
+    "old fashioned": "2 parts bourbon, 1 orange twist, 2 dashes of bitter, and 1 whole sugar cube. We keep it old school.",
+    "whiskey sour": "3 parts bourbon, 2 parts fresh lemon juice, 1 part gomme syrup, and 1 dash of egg white. Drink responsibly.",
+    "tequila sunrise": "2 parts orange juice, 1 part tequila, and 1 part grenadine syrup. Rise and shine!",
+    "margarita": "3 parts tequila, 2 parts triple sec, 1 part lime juice, and salt. Now, where's the beach?",
+    "error": "Sorry we do not have a recipe for that drink."
+  }
+}
